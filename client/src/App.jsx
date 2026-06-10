@@ -212,7 +212,7 @@ export default function App() {
   return (
     <div className="app">
       <div className="header">
-        <div><h1>PulseBoard</h1><p>Real-time dashboard powered by Embr Cache (Valkey/Redis)</p></div>
+        <div><h1>PulseBoard</h1><p>DEVELOP Real-time dashboard powered by Embr Cache (Valkey/Redis)</p></div>
       </div>
 
       <div className="stats-bar">
